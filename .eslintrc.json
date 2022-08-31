@@ -1,0 +1,13 @@
+{
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "extends": ["airbnb-base", "next/core-web-vitals"],
+  "rules": {
+    "linebreak-style": 0,
+    "operator-linebreak": "off"
+  }
+}
